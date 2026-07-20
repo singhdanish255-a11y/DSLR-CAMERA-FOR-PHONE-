@@ -1,0 +1,11 @@
+{
+  "name": "DSLR Pro Camera",
+  "description": "A premium, modern, high-performance DSLR Camera application with manual controls, filters, real-time filters, built-in gallery, and an advanced photo editor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
